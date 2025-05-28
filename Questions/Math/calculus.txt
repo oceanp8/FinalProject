@@ -1,0 +1,69 @@
+Find the derivative of f(x) = 3x + 2
+3
+2
+3x
+1
+A
+
+What is the integral of f(x) = 5?
+5x + C
+x + C
+5 + C
+C
+A
+
+Find the limit: lim(x→2) (x^2 - 4)/(x - 2)
+0
+2
+4
+Does not exist
+C
+
+What is the derivative of f(x) = sin(x)?
+cos(x)
+-cos(x)
+-sin(x)
+tan(x)
+A
+
+The function f(x) = ln(x) has a critical point at:
+x = 0
+x = 1
+x = e
+x = ∞
+B
+
+The graph of f(x) has a horizontal tangent at x = 2. What does this mean about f '(2)?
+f '(2) > 0
+f '(2) = 0
+f '(2) < 0
+f '(2) = 2
+B
+
+The velocity of a car is given by v(t) = 20 - 2t. When is the car at rest?
+t = 0
+t = 5
+t = 10
+t = 20
+B
+
+Which of the following functions has a constant rate of change?
+f(x) = x²
+f(x) = 3x + 2
+f(x) = x³
+f(x) = √x
+B
+
+A graph shows a curve with a negative slope that gets flatter as x increases. What can you say about f '(x)?
+Positive and increasing
+Positive and decreasing
+Negative and increasing
+Negative and decreasing
+C
+
+The area under the velocity-time graph represents:
+Position
+Acceleration
+Distance traveled
+Slope
+C

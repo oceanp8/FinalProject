@@ -1,0 +1,69 @@
+What is the smallest particle of an element that retains the properties of that element?
+Atom
+Molecule
+Proton
+Electron
+A
+
+Which subatomic particle has a negative charge?
+Proton
+Neutron
+Electron
+Nucleus
+C
+
+What is the chemical symbol for water?
+H2
+HO
+H2O
+OH
+C
+
+What is the pH of a neutral substance like pure water?
+0
+7
+10
+14
+B
+
+Which state of matter has a definite volume but no definite shape?
+Solid
+Liquid
+Gas
+Plasma
+B
+
+Which of the following has the strongest intermolecular forces?
+H₂
+Cl₂
+HF
+CO₂
+C
+
+A 1.0 M solution of a weak acid has a pH of 3. What does this imply?
+The acid completely ionizes
+The acid is neutral
+The acid partially ionizes
+The acid is diprotic
+C
+
+Which of the following represents the correct net ionic equation for the reaction between HCl and NaOH?
+H⁺ + OH⁻ → H₂O
+Na⁺ + OH⁻ → NaOH
+HCl + NaOH → NaCl + H₂O
+H⁺ + Na⁺ → NaH
+A
+
+Which factor affects both the rate and equilibrium position of a chemical reaction?
+Catalyst
+Concentration
+Temperature
+Surface area
+C
+
+Which of the following best explains why metals conduct electricity?
+Delocalized electrons
+High ionization energy
+Strong covalent bonds
+Fixed valence shells
+A

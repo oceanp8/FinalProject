@@ -1,0 +1,69 @@
+What force pulls objects toward the center of the Earth?
+Friction
+Magnetism
+Gravity
+Electricity
+C
+
+What is the unit of measurement for force?
+Joule
+Newton
+Watt
+Meter
+B
+
+What form of energy is stored in a stretched rubber band?
+Kinetic energy
+Thermal energy
+Elastic potential energy
+Gravitational energy
+C
+
+What happens to the motion of an object when balanced forces act on it?
+It speeds up
+It slows down
+It changes direction
+It stays the same
+D
+
+What is the speed of light in a vacuum?
+300 m/s
+1,500 m/s
+300,000 km/s
+9.8 m/s^2
+C
+
+A car moves in a circle at constant speed. What can be said about the net force acting on it?
+There is no net force
+The net force is outward
+The net force is inward
+The net force is zero since speed is constant
+C
+
+A 10 N force is applied to a 2 kg object at rest. What is its velocity after 3 seconds?
+10 m/s
+15 m/s
+20 m/s
+30 m/s
+B
+
+A ball is thrown straight up. At its highest point:
+Velocity is zero, acceleration is zero
+Velocity is zero, acceleration is g
+Velocity is g, acceleration is zero
+Both are zero
+B
+
+Two objects of different masses are dropped from the same height. Ignoring air resistance, they hit the ground:
+At different times
+At the same time
+With different accelerations
+With zero speed
+B
+
+A box is pushed with a constant force across a rough surface and moves at a constant speed. What can you conclude about the net force acting on the box?
+Friction is greater than the applied force
+The applied force is greater than friction
+The net force is zero
+The box is accelerating
+C

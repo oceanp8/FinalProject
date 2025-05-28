@@ -1,0 +1,70 @@
+What is the mean of the data set: 5, 7, 3, 10, 5?
+5
+6
+7
+10
+B
+
+What is the median of the data set: 3, 5, 5, 7, 10?
+5
+6
+7
+10
+A
+
+What is the mode of the data set: 2, 4, 4, 6, 8?
+2
+4
+6
+8
+B
+
+In a normal distribution, approximately what percent of data falls within 1 standard deviation of the mean?
+50%
+68%
+75%
+95%
+B
+
+What is the range of the data set: 12, 15, 9, 20, 18?
+8
+9
+11
+12
+C
+
+A six-sided die is rolled twice. What is the probability that the sum is at least 10?
+1/6
+1/9
+1/12
+1/3
+A
+
+Which display best shows the spread of a data set?
+Bar graph
+Histogram
+Line graph
+Pie chart
+B
+
+In a boxplot, what does the line in the middle of the box represent?
+Mean
+Range
+Median
+Mode
+C
+
+A test has scores: 90, 85, 80, 95, 70. What is the mean?
+84
+85
+86
+87
+A
+
+What does a correlation coefficient of -0.9 suggest?
+No relationship
+Weak positive
+Strong negative
+Strong positive
+C
+

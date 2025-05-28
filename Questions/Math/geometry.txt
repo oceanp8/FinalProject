@@ -1,0 +1,70 @@
+What is the area of a triangle with base 10 units and height 6 units?
+30
+60
+15
+20
+A
+
+A square has a perimeter of 36 units. What is the length of one side?
+6
+8
+9
+12
+C
+
+What is the volume of a cube with side length 5 units?
+15
+25
+100
+125
+D
+    
+The sum of the interior angles of a hexagon is:
+540 degrees
+720 degrees
+900 degrees
+1080 degrees
+B
+
+What is the length of the hypotenuse in a right triangle with legs 6 and 8 units?
+10
+12
+14
+8
+A
+
+A triangle has angles in the ratio 2:3:4. What is the largest angle?
+40 degrees
+60 degrees
+80 degrees
+100 degrees
+D
+
+A ladder leans against a wall forming a 75 degrees angle with the ground. Which function would you use to find the ladder’s height up the wall?
+Sine
+Cosine
+Tangent
+Secant
+A
+
+Which shape has only one pair of parallel sides?
+Square
+Rhombus
+Parallelogram
+Trapezoid
+D
+
+A circle has a diameter of 10 cm. What is its circumference (use π = 3.14)?
+31.4 cm
+15.7 cm
+20 cm
+25 cm
+A
+
+Two angles are supplementary and one is 3 times the other. What is the smaller angle?
+30 degrees
+45 degrees
+60 degrees
+90 degrees
+A
+

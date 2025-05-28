@@ -1,0 +1,69 @@
+What is the basic unit of life?
+Tissue
+Organ
+Cell
+Organism
+C
+
+Which organelle is responsible for producing energy in the cell?
+Golgi apparatus
+Ribosome
+Mitochondria
+Ucleus
+C
+
+What molecule carries genetic information?
+RNA
+DNA
+Protein
+Glucose
+B
+
+Which part of the cell controls its activities?
+Cell wall
+Cytoplasm
+Nucleus
+Vacuole
+C
+
+What structure surrounds the cell membrane in plant cells and provides support?
+Cell wall
+Lysosome
+Chloroplast
+Ribosome
+A
+
+Which process most directly increases genetic variation during meiosis?
+DNA replication
+Cytokinesis
+Crossing over
+Binary fission
+C
+
+If a mutation prevents the production of ATP synthase, what part of cellular respiration is directly impacted?
+Glycolysis
+Krebs cycle
+Electron transport chain
+Fermentation
+C
+
+A population of lizards experiences stabilizing selection. What would you expect to happen over time?
+Traits at both extremes become more common
+Intermediate traits become more common
+Genetic diversity rapidly increases
+Speciation occurs
+B
+
+Which of the following best describes the role of tRNA in translation?
+Carries DNA to the ribosome
+Brings amino acids to the ribosome
+Creates peptide bonds
+Unzips the DNA
+B
+
+Which change would most likely increase the rate of enzyme-catalyzed reactions initially?
+Decreasing pH to extreme levels
+Raising temperature slightly
+Removing cofactors
+Adding a noncompetitive inhibitor
+B
